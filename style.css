@@ -1,0 +1,31 @@
+h1{
+color: black;
+text-align:left;
+padding: 50px;
+
+}
+
+body a{
+   text-emphasis-color:blue;
+   text-align:right;
+   
+}
+h4{
+    text-decoration-style: solid;
+    text-align: start;
+}
+table{
+table-layout: auto;
+  border:1px solid black;
+  text-align: left;
+  tab-size: 60px;
+}
+h2{
+    text-align:left;
+}
+img{
+    background-size: 80%
+    
+    
+    }
+    
