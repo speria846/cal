@@ -1,13 +1,14 @@
 h1{
 color: black;
 text-align:left;
-padding: 50px;
-
+padding:1%;
 }
 
-body a{
-   text-emphasis-color:blue;
+div{
+   text-align: end;
    text-align:right;
+   -ms-text-size-adjust: 25%;
+
    
 }
 h4{
@@ -27,5 +28,7 @@ img{
     background-size: 80%
     
     
-    }
+}
+
+
     
