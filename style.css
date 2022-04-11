@@ -1,7 +1,15 @@
+.sam{
+ text-align: right; 
+margin-top: -5%;  
+text-size-adjust: 60%;
+text-decoration-color: rgb(11, 11, 11);
+text-transform: capitalize;
+box-shadow: 7%;
+}
 h1{
 color: black;
 text-align:left;
-padding:1%;
+padding-bottom: -30%;
 }
 
 div{
@@ -15,20 +23,111 @@ h4{
     text-decoration-style: solid;
     text-align: start;
 }
-table{
-table-layout: auto;
-  border:1px solid black;
+.dean{
+
+  border: 30px solid rgb(67, 47, 47);
   text-align: left;
-  tab-size: 60px;
+
+ 
+  width: 50%;
+  height: 46%;
+  
+
+  
+ 
+}
+.th{
+    height: 60%;
+    text-align: center;
+
+}
+.td {
+    height: 50px;
+    vertical-align: bottom;
+  }
+
+.brez{
+    text-align: left;
+    padding-top:40% ;
+    height: 30px;
+    width: 30px;
+
+}
+.breria{
+    text-align: right;
+    padding-bottom:40% ;
+    height: 30px;
+    width: 30px;
+
 }
 h2{
     text-align:left;
 }
 img{
-    background-size: 80%
-    
-    
+    background-size: 80% 90%;
 }
+body{
+    background-color: rgb(193, 135, 116);
+}
+.listemp{
+    text-align: left;
+    image-rendering:crisp-edges;
+    padding-left: 20px;
+    }
+    .dallen{
+        text-align: left;
+       image-rendering:optimizeQuality;
+        background-position: center;
+        padding-left: 20px;
+    }
+    .dam{
+    text-align: right;
+    image-rendering: 50%;
+    padding-left: 15PX;
+    }
+    .spe{
+    text-align: right;
+    image-rendering: 50%;
+    padding-left: 10px;
+    }
+    .name{
+       
+        text-align: left;
+        box-shadow: 55%;
+        border-radius: 25%;
+        box-sizing: border-box;
+        -moz-box-flex: 34px;
 
 
-    
+    }
+    .de{
+        padding-top: 45%;
+    }
+    .footer{
+        text-align: left;
+        background-color:rgb(244, 164, 95);
+    }
+        
+    .me{
+    text-size-adjust: 57%;
+    }
+    .god h1{
+        text-emphasis-position: left;
+   
+    font-size: medium;
+
+    }
+    .god ul{
+        font-style: italic;
+        
+    }
+    .navim{
+        text-align: right;
+    }
+    .images{
+        background-color: coral;
+        text-align: left;
+        padding-left: 20px;
+        image-rendering: 40px;
+        border-radius: 30px;
+    }
